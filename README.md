@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on various ways, I can use my skills in solving real world problems.
 - 📫 How to reach me through my email address at 'aravindreddysanta@gmail.com'
 - 😄 Pronouns: He
-- ⚡ Fun fact: Do not pee in your sleep.
+- ⚡ Fun fact: I treat programming like puzzle-solving — except the edge pieces are APIs, and the missing ones are usually a semicolon.
 
 <!---
 aravindsanta/aravindsanta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
