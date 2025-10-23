@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aravindsanta
 - 👀 I’m interested to bring ideas to life and solve complex problems.
-- 🌱 I’m currently learning Java, Sql, html, css and javascript
+- 🌱 I’m developing an app for students to help in their studies using flutter for ios and android
 - 💞️ I’m looking to collaborate on various ways, I can use my skills in solving real world problems.
 - 📫 How to reach me through my email address at 'aravindreddysanta@gmail.com'
 - 😄 Pronouns: He
