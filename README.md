@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aravindsanta
 - 👀 I am a software Engineer based in Ottawa, Ontario, Canada
-- I am in my mid 30's and pivoted from clinical research to software industry to develop applications, softwares for enterprises.
+- I am in my mid 30's and pivoted from clinical research to software industry to develop applications, softwares for Educational Institutions
 - I have started a software company called "Temagami Software Inc." to focus primarily on software in education,[www.temagamisoftware.ca](https://temagamisoftware.ca/)
 - I found my calling with mobile apps using flutter and swift.
 - I’m developing an app for students to help in their studies using flutter for ios and android.
