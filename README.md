@@ -3,8 +3,8 @@
 - I am in my mid 30's and pivoted from clinical research to software industry to develop applications, softwares for Educational Institutions
 - I have started a software company called "Temagami Software Inc." to focus primarily on software in education,[www.temagamisoftware.ca](https://temagamisoftware.ca/)
 - I found my calling with mobile apps using flutter and swift.
-- I’m developing an app for students to help in their studies using flutter for ios and android.
-- I have started working on several apps, that I am planning to release before christmas 2025.
+- I have developed an app for students to help in their studies using flutter for ios and android called "Gradeup Ontario". It is available in Google play store and Apple App store. Give a thummbsup if you like them.
+- I have started working on several apps, that I am planning to release in the year 2026.
 - I’m looking to collaborate on various ways and use my skills in solving real world problems.
 - ⚡Artificail intelligence is here and there is nothing that we can do about it. We both can coexist and create wonders and make a better planet.
 - 📫 How to reach me through my email address at 'aravindreddysanta@gmail.com' or support@temagamisoftware.ca
