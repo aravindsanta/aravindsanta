@@ -4,7 +4,8 @@
 - I have started a software company called "Temagami Software Inc." to focus primarily on software in education,[www.temagamisoftware.ca](https://temagamisoftware.ca/)
 - I found my calling with mobile apps using flutter and swift.
 - I have developed two apps on the android and iOS for students , GradeUp Ontario and Canadian Citizenship Test 26: Can Cit.
-- Iam also developing a third app for ios MoodFrame built exclusively for iOS.
+- I have also developed a third app for ios MoodFrame built exclusively for iOS for mental health.
+- I am developing justPDF for iOS and Android using native code, with ads and revenue cat integration.
 - I’m looking to collaborate on various ways and use my skills in solving real world problems.
 - ⚡Artificail intelligence is here and there is nothing that we can do about it. We both can coexist and create wonders and make a better planet.
 - 📫 How to reach me through my email address at 'aravindreddysanta@gmail.com' or support@temagamisoftware.ca
