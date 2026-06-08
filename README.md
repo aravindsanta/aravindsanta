@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aravindsanta, a father, husband and a loving son to all the wonderful women in my life
+- 👋 Hi, I’m @aravindsanta
 - 👀 I am a software Engineer based in Ottawa, Ontario, Canada
 - I am in my mid 30's and pivoted from clinical research to software industry to develop mobile applications, softwares for Educational Institutions
 - I have started a software company called "Temagami Software Inc." to focus primarily on software in education,[www.temagamisoftware.ca](https://temagamisoftware.ca/)
