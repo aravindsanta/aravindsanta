@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aravindsanta
 - 👀 I am a software Engineer based in Ottawa, Ontario, Canada
 - I am in my mid 30's and pivoted from clinical research to software industry to develop mobile applications, softwares for Educational Institutions
-- I have started a software company called "Temagami Software Inc." to focus primarily on software in education,[www.temagamisoftware.ca](https://temagamisoftware.ca/)
+- I started a software company called "Temagami Software Inc." to focus primarily on software in education,[www.temagamisoftware.ca](https://temagamisoftware.ca/)
 - I found my calling with mobile apps using flutter and swift.
 - I have developed two apps on the android and iOS for students , GradeUp Ontario and Canadian Citizenship Test 26: Can Cit.
 - I have also developed a third app for ios MoodFrame built exclusively for iOS for mental health.
