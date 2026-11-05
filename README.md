@@ -5,6 +5,7 @@
 - I found my calling with mobile apps using flutter, Swift, Kotlin and C#.
   
 - These are the apps that I have developed
+  
 **Gradeup Ontario:
 - https://apps.apple.com/ca/app/gradeup-ontario/id6756432867
 - https://play.google.com/store/apps/details?id=com.gradeup.ontario&hl=en_CA
@@ -24,8 +25,12 @@
 -https://apps.microsoft.com/detail/9p35z6rddzbn?hl=en-GB&gl=CA
 
 **RTO Mitra:
+-https://play.google.com/store/apps/details?id=com.temagamisoftware.rtomitra&hl=en_CA
+-https://apps.apple.com/us/app/rto-mitra/id6793655582
 
-- I am also developing justPDF for iOS and Android using native code, with ads and revenue cat integration, UFO disclosure for ios, Docs Scan with multi language support etc.
+- I am also developing justPDF, UFO Disclosure, Docs Scan, mobile games-Zombies in Toronto, Canada Coast 2 coast) game for iOS and Android using native code, with ads and revenue cat integration etc.
+
+  
 - I’m looking to collaborate on various ways and use my skills in solving real world problems.
 - ⚡Artificail intelligence is here and there is nothing that we can do about it. We both can coexist and create wonders and make a better planet.
 - 📫 How to reach me through my email address at 'aravindreddysanta@gmail.com' or support@temagamisoftware.ca
